@@ -12,12 +12,20 @@ You can click the Preview link to take a look at your changes.
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=세환_Profile🎨&fontSize=70)
 <br> 
 
-## Hi, I’m Joosehwan 👋
+## 내 소개 👋
   - 이름 : 주세환
   - 학력 : 삼육대학교 컴퓨터메카트로닉스 컴퓨터공학 전공
   - 나이 : 97년 25살
-  
-  ## Tech 🔧
+  - 혼자 공부하는것보다 팀 단위로 일하는것을 더 잘합니다
+  - 함께 협동해서 문제를 해결하는것을 좋아합니다
+  - 문제해결을 위해 의견내는것을 
+ 
+## 나의 목표 👋 
+  - 안드로이드 개발자가 되는것이 목표입니다 🌱🌱
+  - 사람들의 삶에 긍정적인 영향을 줄 수 있는 그런 어플을 만들고 싶어요
+  - 토스, 배달의 민족같은 플랫폼을 만들어 사회적인 움직임을 만들고 싶어요.
+ 
+  ## 내가 다룰 수 있는 것들 🔧
   <div>
 <br> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
